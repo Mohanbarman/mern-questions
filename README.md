@@ -2,12 +2,12 @@
 
 ## 1. React
 
-1. What is JSX ?
+1. What is **JSX** ?
 2. What are module bundlers name any two ?
 3. What are the use of keys in React components ?
 4. How to prevent prop drilling in React ?
 5. What is higher order component in React ?
-6. What are hooks in React ?
+6. What are hooks in React functional components ?
 7. Which hook should we use for data fetching ?
 8. What is **Virtual DOM** ?
 9. State advantages and disadvantes of **Virtual DOM** as compared to **Real DOM**.
@@ -63,4 +63,14 @@
 3. What is Mongodb ?
 4. What is ORM ?
 5. What are foreign keys and primary keys ?
-6. What are stored procedures in sql databases ?
+6. What are stored procedures in databases ?
+7. What is indexing ?
+
+### 5. Git
+
+1. What is Git ?
+2. What is a git repository ?
+3. What is pull request ?
+4. What is Commit ? which command is used to commit staged files ?
+5. What is branch ?
+6. What command is used to push commits ?

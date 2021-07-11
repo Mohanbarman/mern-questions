@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "watch:pdf": "nodemon -w README.md --exec markdown-pdf -o mock-questions.pdf README.md"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mohanbarman/mern-practical-questions.git"
