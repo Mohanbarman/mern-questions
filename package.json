@@ -1,0 +1,17 @@
+{
+  "name": "mern-practical-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohanbarman/mern-practical-questions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohanbarman/mern-practical-questions/issues"
+  },
+  "homepage": "https://github.com/Mohanbarman/mern-practical-questions#readme"
+}
