@@ -1,7 +1,5 @@
-import express from "express";
-
-import { users } from "./demoData";
-import { IUser } from "./types/user.types";
+const express = require("express");
+const { users } = require("./demoData");
 
 const PORT = 4000;
 const app = express();
@@ -25,7 +23,7 @@ app.get("/users/:id", (req, res) => {
 // TODO: Send erorr message when email already exists
 // adding user
 app.post("/user", (req, res) => {
-  const user: IUser = {
+  const user = {
     id: Math.floor(Math.random() * 100000),
     age: req.body.age,
     email: req.body.email,

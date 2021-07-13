@@ -74,3 +74,5 @@
 4. What is Commit ? which command is used to commit staged files ?
 5. What is branch ?
 6. What command is used to push commits ?
+
+### Practical questions : https://bit.ly/mern-smc

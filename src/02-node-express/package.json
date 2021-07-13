@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon -e ts --exec ts-node src/index.ts",
-    "start": "ts-node src/index.ts",
+    "dev": "nodemon -e js --exec node src/index.js",
+    "start": "node src/index.js",
     "test": "mocha"
   },
   "dependencies": {

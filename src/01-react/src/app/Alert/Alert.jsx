@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-// TODO: Fix typescript errors
+// TODO: Fix typescript errors and fix functionality
 const Alert = ({ isDefaultShown = false, type, message }) => {
   const [isShown, setIsShown] = React.useState(isDefaultShown);
 

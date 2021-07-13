@@ -1,7 +1,6 @@
-import { FC } from "react";
 import Alert from "./app/Alert/Alert";
 
-const App: FC = () => {
+const App = () => {
   return (
     <div>
       <Alert isDefaultShown={true} message="Hello world" type="warning" />

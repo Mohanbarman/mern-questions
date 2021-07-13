@@ -1,6 +1,4 @@
-import { IUser } from "./types/user.types";
-
-export const users: Array<IUser> = [
+const users = [
   {
     id: 1,
     age: 30,
@@ -23,3 +21,5 @@ export const users: Array<IUser> = [
     lastName: "Kumar",
   },
 ];
+
+module.exports = { users };
